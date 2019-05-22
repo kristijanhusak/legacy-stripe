@@ -1,0 +1,10 @@
+{
+  "name": "legacy-stripe",
+  "description": "Wrapper around older version of stripe",
+  "version": "6.36.0",
+  "dependencies": {
+    "stripe": "6.36.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
